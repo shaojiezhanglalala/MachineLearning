@@ -11,3 +11,5 @@
 >8.Adaboost提升方法<br>
 >9.PCA<br>
 >10.反向传播神经网络<br>
+>yolov6实验<br>
+>学习pytorch<br>
